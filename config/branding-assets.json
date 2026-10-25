@@ -1,0 +1,116 @@
+{
+  "schema": 1,
+  "project": "ERYDON resource packs",
+  "assets": [
+    {
+      "path": "docs/branding/erydon-32x-logo.gif",
+      "role": "readme_logo",
+      "sha256": "4b4aa2fd75758cbb876c86aec335caab4701736efc1bf0f108498405317e2244",
+      "bytes": 3329947,
+      "size": [
+        480,
+        198
+      ],
+      "frames": 133,
+      "readme": "README.md"
+    },
+    {
+      "path": "docs/branding/erydon-64x-logo.gif",
+      "role": "readme_logo",
+      "sha256": "312bec0cf4f4abc4eda92e079fc228e321067ae121e33942d1ae1979cce80e9b",
+      "bytes": 3351694,
+      "size": [
+        480,
+        198
+      ],
+      "frames": 133,
+      "readme": "README.md"
+    },
+    {
+      "path": "packs/32x/pack.png",
+      "role": "static_icon",
+      "sha256": "9e4c7b1152b2e8deb04fbd61e5a9e8ffee12ebbcfc5ed1ad4ad98053eed6828d",
+      "bytes": 192621,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "packs/32x/assets/erydon/textures/item/emblem.png",
+      "role": "creative_emblem",
+      "sha256": "ddcc8c49f51aa022a53495f99253ceddd81e95a64b3ae5cc586887976ea2d010",
+      "bytes": 227354,
+      "size": [
+        64,
+        2560
+      ],
+      "frames": 40,
+      "frame_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "path": "packs/32x/assets/themelios/textures/item/emblem.png",
+      "role": "creative_emblem",
+      "sha256": "f13b4ba31aeec74607f8fe471bf73035c1820717732a6659cd08454878298428",
+      "bytes": 235983,
+      "size": [
+        64,
+        2432
+      ],
+      "frames": 38,
+      "frame_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "path": "packs/64x/pack.png",
+      "role": "static_icon",
+      "sha256": "a294b1c651d400fc0631b848bd3388f39bcd149b393af289ec9964baa627a9cc",
+      "bytes": 190595,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "path": "packs/64x/assets/erydon/textures/item/emblem.png",
+      "role": "creative_emblem",
+      "sha256": "ddcc8c49f51aa022a53495f99253ceddd81e95a64b3ae5cc586887976ea2d010",
+      "bytes": 227354,
+      "size": [
+        64,
+        2560
+      ],
+      "frames": 40,
+      "frame_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "path": "packs/64x/assets/themelios/textures/item/emblem.png",
+      "role": "creative_emblem",
+      "sha256": "f13b4ba31aeec74607f8fe471bf73035c1820717732a6659cd08454878298428",
+      "bytes": 235983,
+      "size": [
+        64,
+        2432
+      ],
+      "frames": 38,
+      "frame_size": [
+        64,
+        64
+      ]
+    }
+  ],
+  "runtime_roots": [
+    "packs/32x/assets",
+    "packs/64x/assets"
+  ],
+  "references": [],
+  "forbidden": []
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "unified-32x",
+      "tier": "unified-32x",
+      "root": "../packs/32x",
+      "namespaces": [
+        "daedalon",
+        "erydon",
+        "minecraft"
+      ],
+      "include": [
+        "*.png",
+        "**/*.png"
+      ],
+      "exclude": [],
+      "role_rules": [
+        {
+          "glob": "textures/**/*_n.png",
+          "role": "normal"
+        },
+        {
+          "glob": "textures/**/*_s.png",
+          "role": "specular"
+        },
+        {
+          "glob": "textures/optifine/ctm/overlay/**/*.png",
+          "role": "overlay"
+        },
+        {
+          "glob": "textures/optifine/**/*.png",
+          "role": "ctm-albedo"
+        },
+        {
+          "glob": "textures/gui/**/*.png",
+          "role": "ui"
+        },
+        {
+          "glob": "textures/item/**/*.png",
+          "role": "item"
+        },
+        {
+          "glob": "textures/entity/**/*.png",
+          "role": "entity"
+        },
+        {
+          "glob": "textures/particle/**/*.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/*fire*.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/*flame*.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/oil.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/*overlay*.png",
+          "role": "overlay"
+        }
+      ],
+      "metadata_overrides": {},
+      "intentionally_native_high_res": []
+    },
+    {
+      "id": "unified-64x",
+      "tier": "unified-64x",
+      "root": "../packs/64x",
+      "namespaces": [
+        "daedalon",
+        "erydon",
+        "minecraft"
+      ],
+      "include": [
+        "*.png",
+        "**/*.png"
+      ],
+      "exclude": [],
+      "role_rules": [
+        {
+          "glob": "textures/**/*_n.png",
+          "role": "normal"
+        },
+        {
+          "glob": "textures/**/*_s.png",
+          "role": "specular"
+        },
+        {
+          "glob": "textures/optifine/ctm/overlay/**/*.png",
+          "role": "overlay"
+        },
+        {
+          "glob": "textures/optifine/**/*.png",
+          "role": "ctm-albedo"
+        },
+        {
+          "glob": "textures/gui/**/*.png",
+          "role": "ui"
+        },
+        {
+          "glob": "textures/item/**/*.png",
+          "role": "item"
+        },
+        {
+          "glob": "textures/entity/**/*.png",
+          "role": "entity"
+        },
+        {
+          "glob": "textures/particle/**/*.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/*fire*.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/*flame*.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/oil.png",
+          "role": "effect"
+        },
+        {
+          "glob": "textures/**/*overlay*.png",
+          "role": "overlay"
+        }
+      ],
+      "metadata_overrides": {},
+      "intentionally_native_high_res": []
+    }
+  ],
+  "pilot_groups": []
+}

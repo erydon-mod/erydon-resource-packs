@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [
+      15,
+      34
+    ],
+    "description": "ERYDON 64x Resource Pack: High-detail connected textures and PBR materials for the ERYDON mod family."
+  }
+}

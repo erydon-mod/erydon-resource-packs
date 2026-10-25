@@ -1,0 +1,1231 @@
+{
+    "sources":  [
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite",
+                        "prefix":  "optifine/ctm/aganite/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite_aged",
+                        "prefix":  "optifine/ctm/aganite_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite_ashlar",
+                        "prefix":  "optifine/ctm/aganite_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite_herringbone_bronze",
+                        "prefix":  "optifine/ctm/aganite_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite_herringbone_grout",
+                        "prefix":  "optifine/ctm/aganite_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite_hewn",
+                        "prefix":  "optifine/ctm/aganite_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite_rock",
+                        "prefix":  "optifine/ctm/aganite_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aganite_rusticated",
+                        "prefix":  "optifine/ctm/aganite_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon",
+                        "prefix":  "optifine/ctm/aterzon/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon_aged",
+                        "prefix":  "optifine/ctm/aterzon_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon_ashlar",
+                        "prefix":  "optifine/ctm/aterzon_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon_herringbone_bronze",
+                        "prefix":  "optifine/ctm/aterzon_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon_herringbone_grout",
+                        "prefix":  "optifine/ctm/aterzon_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon_hewn",
+                        "prefix":  "optifine/ctm/aterzon_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon_rock",
+                        "prefix":  "optifine/ctm/aterzon_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/aterzon_rusticated",
+                        "prefix":  "optifine/ctm/aterzon_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis",
+                        "prefix":  "optifine/ctm/borealis/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_aged",
+                        "prefix":  "optifine/ctm/borealis_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_ashlar",
+                        "prefix":  "optifine/ctm/borealis_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_diaphanes",
+                        "prefix":  "optifine/ctm/borealis_diaphanes/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_herringbone_bronze",
+                        "prefix":  "optifine/ctm/borealis_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_herringbone_grout",
+                        "prefix":  "optifine/ctm/borealis_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_hewn",
+                        "prefix":  "optifine/ctm/borealis_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_rock",
+                        "prefix":  "optifine/ctm/borealis_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/borealis_rusticated",
+                        "prefix":  "optifine/ctm/borealis_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite",
+                        "prefix":  "optifine/ctm/brectite/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite_aged",
+                        "prefix":  "optifine/ctm/brectite_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite_ashlar",
+                        "prefix":  "optifine/ctm/brectite_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite_herringbone_bronze",
+                        "prefix":  "optifine/ctm/brectite_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite_herringbone_grout",
+                        "prefix":  "optifine/ctm/brectite_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite_hewn",
+                        "prefix":  "optifine/ctm/brectite_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite_rock",
+                        "prefix":  "optifine/ctm/brectite_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/brectite_rusticated",
+                        "prefix":  "optifine/ctm/brectite_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum",
+                        "prefix":  "optifine/ctm/calacattum/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_aged",
+                        "prefix":  "optifine/ctm/calacattum_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_ashlar",
+                        "prefix":  "optifine/ctm/calacattum_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_herringbone_bronze",
+                        "prefix":  "optifine/ctm/calacattum_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_herringbone_grout",
+                        "prefix":  "optifine/ctm/calacattum_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_hewn",
+                        "prefix":  "optifine/ctm/calacattum_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_rock",
+                        "prefix":  "optifine/ctm/calacattum_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_portorium_weave_bronze",
+                        "prefix":  "optifine/ctm/calacattum_portorium_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_portorium_weave_grout",
+                        "prefix":  "optifine/ctm/calacattum_portorium_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/calacattum_rusticated",
+                        "prefix":  "optifine/ctm/calacattum_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom",
+                        "prefix":  "optifine/ctm/chalstrom/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_aged",
+                        "prefix":  "optifine/ctm/chalstrom_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_ashlar",
+                        "prefix":  "optifine/ctm/chalstrom_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_calacattum_weave_bronze",
+                        "prefix":  "optifine/ctm/chalstrom_calacattum_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_calacattum_weave_grout",
+                        "prefix":  "optifine/ctm/chalstrom_calacattum_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_herringbone_bronze",
+                        "prefix":  "optifine/ctm/chalstrom_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_herringbone_grout",
+                        "prefix":  "optifine/ctm/chalstrom_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_hewn",
+                        "prefix":  "optifine/ctm/chalstrom_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_rock",
+                        "prefix":  "optifine/ctm/chalstrom_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chalstrom_rusticated",
+                        "prefix":  "optifine/ctm/chalstrom_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx",
+                        "prefix":  "optifine/ctm/chrysonyx/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_aged",
+                        "prefix":  "optifine/ctm/chrysonyx_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_ashlar",
+                        "prefix":  "optifine/ctm/chrysonyx_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_glacium_weave_bronze",
+                        "prefix":  "optifine/ctm/chrysonyx_glacium_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_glacium_weave_grout",
+                        "prefix":  "optifine/ctm/chrysonyx_glacium_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_herringbone_bronze",
+                        "prefix":  "optifine/ctm/chrysonyx_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_herringbone_grout",
+                        "prefix":  "optifine/ctm/chrysonyx_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_hewn",
+                        "prefix":  "optifine/ctm/chrysonyx_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_rock",
+                        "prefix":  "optifine/ctm/chrysonyx_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/chrysonyx_rusticated",
+                        "prefix":  "optifine/ctm/chrysonyx_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus",
+                        "prefix":  "optifine/ctm/etruscus/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus_aged",
+                        "prefix":  "optifine/ctm/etruscus_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus_ashlar",
+                        "prefix":  "optifine/ctm/etruscus_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus_herringbone_bronze",
+                        "prefix":  "optifine/ctm/etruscus_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus_herringbone_grout",
+                        "prefix":  "optifine/ctm/etruscus_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus_hewn",
+                        "prefix":  "optifine/ctm/etruscus_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus_rock",
+                        "prefix":  "optifine/ctm/etruscus_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/etruscus_rusticated",
+                        "prefix":  "optifine/ctm/etruscus_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum",
+                        "prefix":  "optifine/ctm/gelastrum/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_aged",
+                        "prefix":  "optifine/ctm/gelastrum_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_ashlar",
+                        "prefix":  "optifine/ctm/gelastrum_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_diaphanes",
+                        "prefix":  "optifine/ctm/gelastrum_diaphanes/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_etruscus_weave_bronze",
+                        "prefix":  "optifine/ctm/gelastrum_etruscus_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_etruscus_weave_grout",
+                        "prefix":  "optifine/ctm/gelastrum_etruscus_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_herringbone_bronze",
+                        "prefix":  "optifine/ctm/gelastrum_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_herringbone_grout",
+                        "prefix":  "optifine/ctm/gelastrum_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_hewn",
+                        "prefix":  "optifine/ctm/gelastrum_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_rock",
+                        "prefix":  "optifine/ctm/gelastrum_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/gelastrum_rusticated",
+                        "prefix":  "optifine/ctm/gelastrum_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium",
+                        "prefix":  "optifine/ctm/glacium/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_aged",
+                        "prefix":  "optifine/ctm/glacium_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_ashlar",
+                        "prefix":  "optifine/ctm/glacium_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_herringbone_bronze",
+                        "prefix":  "optifine/ctm/glacium_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_herringbone_grout",
+                        "prefix":  "optifine/ctm/glacium_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_hewn",
+                        "prefix":  "optifine/ctm/glacium_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_rock",
+                        "prefix":  "optifine/ctm/glacium_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_nerium_weave_bronze",
+                        "prefix":  "optifine/ctm/glacium_nerium_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_nerium_weave_grout",
+                        "prefix":  "optifine/ctm/glacium_nerium_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/glacium_rusticated",
+                        "prefix":  "optifine/ctm/glacium_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion",
+                        "prefix":  "optifine/ctm/hesperion/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_aged",
+                        "prefix":  "optifine/ctm/hesperion_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_ashlar",
+                        "prefix":  "optifine/ctm/hesperion_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_glacium_weave_bronze",
+                        "prefix":  "optifine/ctm/hesperion_glacium_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_glacium_weave_grout",
+                        "prefix":  "optifine/ctm/hesperion_glacium_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_herringbone_bronze",
+                        "prefix":  "optifine/ctm/hesperion_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_herringbone_grout",
+                        "prefix":  "optifine/ctm/hesperion_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_hewn",
+                        "prefix":  "optifine/ctm/hesperion_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_rock",
+                        "prefix":  "optifine/ctm/hesperion_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/hesperion_rusticated",
+                        "prefix":  "optifine/ctm/hesperion_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium",
+                        "prefix":  "optifine/ctm/imperium/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium_aged",
+                        "prefix":  "optifine/ctm/imperium_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium_ashlar",
+                        "prefix":  "optifine/ctm/imperium_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium_herringbone_bronze",
+                        "prefix":  "optifine/ctm/imperium_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium_herringbone_grout",
+                        "prefix":  "optifine/ctm/imperium_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium_hewn",
+                        "prefix":  "optifine/ctm/imperium_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium_rock",
+                        "prefix":  "optifine/ctm/imperium_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/imperium_rusticated",
+                        "prefix":  "optifine/ctm/imperium_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion",
+                        "prefix":  "optifine/ctm/kelastrion/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion_aged",
+                        "prefix":  "optifine/ctm/kelastrion_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion_ashlar",
+                        "prefix":  "optifine/ctm/kelastrion_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion_herringbone_bronze",
+                        "prefix":  "optifine/ctm/kelastrion_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion_herringbone_grout",
+                        "prefix":  "optifine/ctm/kelastrion_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion_hewn",
+                        "prefix":  "optifine/ctm/kelastrion_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion_rock",
+                        "prefix":  "optifine/ctm/kelastrion_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kelastrion_rusticated",
+                        "prefix":  "optifine/ctm/kelastrion_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion",
+                        "prefix":  "optifine/ctm/kylorion/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_aged",
+                        "prefix":  "optifine/ctm/kylorion_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_ashlar",
+                        "prefix":  "optifine/ctm/kylorion_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_glacium_weave_bronze",
+                        "prefix":  "optifine/ctm/kylorion_glacium_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_glacium_weave_grout",
+                        "prefix":  "optifine/ctm/kylorion_glacium_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_herringbone_bronze",
+                        "prefix":  "optifine/ctm/kylorion_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_herringbone_grout",
+                        "prefix":  "optifine/ctm/kylorion_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_hewn",
+                        "prefix":  "optifine/ctm/kylorion_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_rock",
+                        "prefix":  "optifine/ctm/kylorion_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/kylorion_rusticated",
+                        "prefix":  "optifine/ctm/kylorion_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion",
+                        "prefix":  "optifine/ctm/latmion/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion_aged",
+                        "prefix":  "optifine/ctm/latmion_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion_ashlar",
+                        "prefix":  "optifine/ctm/latmion_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion_herringbone_bronze",
+                        "prefix":  "optifine/ctm/latmion_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion_herringbone_grout",
+                        "prefix":  "optifine/ctm/latmion_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion_hewn",
+                        "prefix":  "optifine/ctm/latmion_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion_rock",
+                        "prefix":  "optifine/ctm/latmion_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/latmion_rusticated",
+                        "prefix":  "optifine/ctm/latmion_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium",
+                        "prefix":  "optifine/ctm/laurentium/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_aged",
+                        "prefix":  "optifine/ctm/laurentium_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_ashlar",
+                        "prefix":  "optifine/ctm/laurentium_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_calacattum_weave_bronze",
+                        "prefix":  "optifine/ctm/laurentium_calacattum_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_calacattum_weave_grout",
+                        "prefix":  "optifine/ctm/laurentium_calacattum_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_herringbone_bronze",
+                        "prefix":  "optifine/ctm/laurentium_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_herringbone_grout",
+                        "prefix":  "optifine/ctm/laurentium_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_hewn",
+                        "prefix":  "optifine/ctm/laurentium_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_rock",
+                        "prefix":  "optifine/ctm/laurentium_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/laurentium_rusticated",
+                        "prefix":  "optifine/ctm/laurentium_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx",
+                        "prefix":  "optifine/ctm/mielonyx/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_aged",
+                        "prefix":  "optifine/ctm/mielonyx_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_ashlar",
+                        "prefix":  "optifine/ctm/mielonyx_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_diaphanes",
+                        "prefix":  "optifine/ctm/mielonyx_diaphanes/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_herringbone_bronze",
+                        "prefix":  "optifine/ctm/mielonyx_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_herringbone_grout",
+                        "prefix":  "optifine/ctm/mielonyx_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_hewn",
+                        "prefix":  "optifine/ctm/mielonyx_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_rock",
+                        "prefix":  "optifine/ctm/mielonyx_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_imperium_weave_bronze",
+                        "prefix":  "optifine/ctm/mielonyx_imperium_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_imperium_weave_grout",
+                        "prefix":  "optifine/ctm/mielonyx_imperium_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/mielonyx_rusticated",
+                        "prefix":  "optifine/ctm/mielonyx_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium",
+                        "prefix":  "optifine/ctm/nerium/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium_aged",
+                        "prefix":  "optifine/ctm/nerium_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium_ashlar",
+                        "prefix":  "optifine/ctm/nerium_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium_herringbone_bronze",
+                        "prefix":  "optifine/ctm/nerium_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium_herringbone_grout",
+                        "prefix":  "optifine/ctm/nerium_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium_hewn",
+                        "prefix":  "optifine/ctm/nerium_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium_rock",
+                        "prefix":  "optifine/ctm/nerium_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/nerium_rusticated",
+                        "prefix":  "optifine/ctm/nerium_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis",
+                        "prefix":  "optifine/ctm/noxoplis/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis_aged",
+                        "prefix":  "optifine/ctm/noxoplis_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis_ashlar",
+                        "prefix":  "optifine/ctm/noxoplis_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis_herringbone_bronze",
+                        "prefix":  "optifine/ctm/noxoplis_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis_herringbone_grout",
+                        "prefix":  "optifine/ctm/noxoplis_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis_hewn",
+                        "prefix":  "optifine/ctm/noxoplis_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis_rock",
+                        "prefix":  "optifine/ctm/noxoplis_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/noxoplis_rusticated",
+                        "prefix":  "optifine/ctm/noxoplis_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros",
+                        "prefix":  "optifine/ctm/porphyros/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros_aged",
+                        "prefix":  "optifine/ctm/porphyros_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros_ashlar",
+                        "prefix":  "optifine/ctm/porphyros_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros_herringbone_bronze",
+                        "prefix":  "optifine/ctm/porphyros_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros_herringbone_grout",
+                        "prefix":  "optifine/ctm/porphyros_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros_hewn",
+                        "prefix":  "optifine/ctm/porphyros_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros_rock",
+                        "prefix":  "optifine/ctm/porphyros_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/porphyros_rusticated",
+                        "prefix":  "optifine/ctm/porphyros_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium",
+                        "prefix":  "optifine/ctm/portorium/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium_aged",
+                        "prefix":  "optifine/ctm/portorium_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium_ashlar",
+                        "prefix":  "optifine/ctm/portorium_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium_herringbone_bronze",
+                        "prefix":  "optifine/ctm/portorium_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium_herringbone_grout",
+                        "prefix":  "optifine/ctm/portorium_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium_hewn",
+                        "prefix":  "optifine/ctm/portorium_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium_rock",
+                        "prefix":  "optifine/ctm/portorium_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/portorium_rusticated",
+                        "prefix":  "optifine/ctm/portorium_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon",
+                        "prefix":  "optifine/ctm/psamatheon/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon_aged",
+                        "prefix":  "optifine/ctm/psamatheon_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon_ashlar",
+                        "prefix":  "optifine/ctm/psamatheon_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon_herringbone_bronze",
+                        "prefix":  "optifine/ctm/psamatheon_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon_herringbone_grout",
+                        "prefix":  "optifine/ctm/psamatheon_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon_hewn",
+                        "prefix":  "optifine/ctm/psamatheon_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon_rock",
+                        "prefix":  "optifine/ctm/psamatheon_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/psamatheon_rusticated",
+                        "prefix":  "optifine/ctm/psamatheon_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium",
+                        "prefix":  "optifine/ctm/rosinium/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_aged",
+                        "prefix":  "optifine/ctm/rosinium_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_ashlar",
+                        "prefix":  "optifine/ctm/rosinium_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_herringbone_bronze",
+                        "prefix":  "optifine/ctm/rosinium_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_herringbone_grout",
+                        "prefix":  "optifine/ctm/rosinium_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_hewn",
+                        "prefix":  "optifine/ctm/rosinium_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_rock",
+                        "prefix":  "optifine/ctm/rosinium_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_rusticated",
+                        "prefix":  "optifine/ctm/rosinium_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_sanguenite_weave_bronze",
+                        "prefix":  "optifine/ctm/rosinium_sanguenite_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/rosinium_sanguenite_weave_grout",
+                        "prefix":  "optifine/ctm/rosinium_sanguenite_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite",
+                        "prefix":  "optifine/ctm/sanguenite/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite_aged",
+                        "prefix":  "optifine/ctm/sanguenite_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite_ashlar",
+                        "prefix":  "optifine/ctm/sanguenite_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite_herringbone_bronze",
+                        "prefix":  "optifine/ctm/sanguenite_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite_herringbone_grout",
+                        "prefix":  "optifine/ctm/sanguenite_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite_hewn",
+                        "prefix":  "optifine/ctm/sanguenite_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite_rock",
+                        "prefix":  "optifine/ctm/sanguenite_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/sanguenite_rusticated",
+                        "prefix":  "optifine/ctm/sanguenite_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos",
+                        "prefix":  "optifine/ctm/selenephos/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_aged",
+                        "prefix":  "optifine/ctm/selenephos_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_ashlar",
+                        "prefix":  "optifine/ctm/selenephos_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_diaphanes",
+                        "prefix":  "optifine/ctm/selenephos_diaphanes/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_herringbone_bronze",
+                        "prefix":  "optifine/ctm/selenephos_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_herringbone_grout",
+                        "prefix":  "optifine/ctm/selenephos_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_hewn",
+                        "prefix":  "optifine/ctm/selenephos_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_rock",
+                        "prefix":  "optifine/ctm/selenephos_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/selenephos_rusticated",
+                        "prefix":  "optifine/ctm/selenephos_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra",
+                        "prefix":  "optifine/ctm/solistra/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_aged",
+                        "prefix":  "optifine/ctm/solistra_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_ashlar",
+                        "prefix":  "optifine/ctm/solistra_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_etruscus_weave_bronze",
+                        "prefix":  "optifine/ctm/solistra_etruscus_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_etruscus_weave_grout",
+                        "prefix":  "optifine/ctm/solistra_etruscus_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_herringbone_bronze",
+                        "prefix":  "optifine/ctm/solistra_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_herringbone_grout",
+                        "prefix":  "optifine/ctm/solistra_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_hewn",
+                        "prefix":  "optifine/ctm/solistra_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_rock",
+                        "prefix":  "optifine/ctm/solistra_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/solistra_rusticated",
+                        "prefix":  "optifine/ctm/solistra_rusticated/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus",
+                        "prefix":  "optifine/ctm/striatus/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_aged",
+                        "prefix":  "optifine/ctm/striatus_aged/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_ashlar",
+                        "prefix":  "optifine/ctm/striatus_ashlar/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_herringbone_bronze",
+                        "prefix":  "optifine/ctm/striatus_herringbone_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_herringbone_grout",
+                        "prefix":  "optifine/ctm/striatus_herringbone_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_hewn",
+                        "prefix":  "optifine/ctm/striatus_hewn/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_rock",
+                        "prefix":  "optifine/ctm/striatus_rock/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_nerium_weave_bronze",
+                        "prefix":  "optifine/ctm/striatus_nerium_weave_bronze/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_nerium_weave_grout",
+                        "prefix":  "optifine/ctm/striatus_nerium_weave_grout/"
+                    },
+                    {
+                        "type":  "directory",
+                        "source":  "optifine/ctm/striatus_rusticated",
+                        "prefix":  "optifine/ctm/striatus_rusticated/"
+                    },
+                    {
+                        "type":  "filter",
+                        "pattern":  {
+                                        "namespace":  "minecraft",
+                                        "path":  "optifine/ctm/.+_(n|s)$"
+                                    }
+                    }
+                ]
+}

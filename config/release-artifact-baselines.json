@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "packs": {
+    "64x": {
+      "bytes": 135026274,
+      "filename": "ERYDON-Collection-64x-compat2-v1.5.15.zip",
+      "release": "1.5.15",
+      "sha256": "FE952257CD73664C580C38B42C740E286265B1F655DCCFC774BB6A38333C5BC4"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+name: Validate source and deterministic packs
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - name: Set up Python 3.13
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13'
+          cache: pip
+
+      - name: Install pinned Python dependency
+        run: python -m pip install -r requirements.txt
+
+      - name: Verify approved branding without packaging
+        run: python -B tools/audit_branding.py
+
+      - name: Run source tooling tests
+        run: python -B -m unittest discover -s tools -p "test_*.py" -v
+
+      - name: Validate Daedalon repeat surfaces
+        run: python -B tools/extend_daedalon_repeat_surfaces.py
+
+      - name: Build and verify both deterministic packs
+        run: python tools/build_packs.py --output-dir dist

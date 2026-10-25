@@ -1,0 +1,51 @@
+{
+  "credit": "ERYDON Conquest grass compatibility",
+  "parent": "block/block",
+  "ambientocclusion": false,
+  "textures": {
+    "7": "block/best_grass",
+    "particle": "block/dirt"
+  },
+  "elements": [
+    {
+      "name": "PlaneY8",
+      "from": [10.07575, 17.55, 0],
+      "to": [17.07575, 17.551, 16],
+      "rotation": {"angle": -45, "axis": "z", "origin": [4.95075, 9.05, 8]},
+      "faces": {
+        "up": {"uv": [0, 9, 16, 16], "rotation": 90, "texture": "#7", "cullface": "east", "tintindex": 0},
+        "down": {"uv": [0, 9, 16, 16], "rotation": 90, "texture": "#7", "cullface": "east", "tintindex": 4}
+      }
+    },
+    {
+      "name": "PlaneY9",
+      "from": [0, 17.55, 10.07575],
+      "to": [16, 17.551, 17.07575],
+      "rotation": {"angle": 45, "axis": "x", "origin": [8, 9.05, 4.95075]},
+      "faces": {
+        "up": {"uv": [0, 9, 16, 16], "rotation": 180, "texture": "#7", "cullface": "south", "tintindex": 0},
+        "down": {"uv": [0, 16, 16, 9], "rotation": 180, "texture": "#7", "cullface": "south", "tintindex": 4}
+      }
+    },
+    {
+      "name": "PlaneY6",
+      "from": [-1.12738, 17.47188, 0],
+      "to": [5.87262, 17.47288, 16],
+      "rotation": {"angle": 45, "axis": "z", "origin": [10.95075, 9.05, 8]},
+      "faces": {
+        "up": {"uv": [0, 9, 16, 16], "rotation": 270, "texture": "#7", "cullface": "west", "tintindex": 0},
+        "down": {"uv": [0, 9, 16, 16], "rotation": 270, "texture": "#7", "cullface": "west", "tintindex": 4}
+      }
+    },
+    {
+      "name": "PlaneY7",
+      "from": [-0.0985, 17.55, -1.07575],
+      "to": [15.9015, 17.551, 5.92425],
+      "rotation": {"angle": -45, "axis": "x", "origin": [7.9015, 9.05, 11.04925]},
+      "faces": {
+        "up": {"uv": [0, 9, 16, 16], "texture": "#7", "cullface": "north", "tintindex": 0},
+        "down": {"uv": [0, 16, 16, 9], "texture": "#7", "cullface": "north", "tintindex": 4}
+      }
+    }
+  ]
+}

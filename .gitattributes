@@ -1,0 +1,7 @@
+* text=auto
+*.png binary
+*.gif binary
+*.mcmeta text eol=lf
+*.json text eol=lf
+*.properties binary
+*.txt text eol=lf
